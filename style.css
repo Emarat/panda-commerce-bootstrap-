@@ -1,0 +1,10 @@
+.bg-color{
+    background-color: #fceae8;
+}
+.btn-bg-color{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-color: #ff136f;
+    border: none;
+}
